@@ -19,4 +19,10 @@
 11/04/2021 20:18
 -> Se borran dos archivos de la práctica de caja negra para mejorar la estructura de archivos, se comenta su borrado y se ve el histórico de la carpeta.
 
+11/04/2021 20:38
+-> Para no alterar mi carpeta local original, me he clonado el repositorio en local, he realizado un total de 106 cambios (resumidos a continuación) y después he realizado el commit comentado y he hecho un push al repositorio para que la profesora pueda comprobar los cambios, dando con ello la práctica por finalizada.
 
+Resumen de cambios finales:  
+* Integración de las carpetas 4_2 y 4_3 en un directorio padre llamado UD 04. Git considera que se han ELIMINADO todos los archivos para después CREARLOS de nuevo, así se refleja en el histórico de cambios.
+* Elminación de archivos con extensión .rar que estaban duplicados con los .zip para no generar confusión en los usuarios, ya que el contenido era el mismo. 
+* Creación en el repositorio local de un archivo Test.txt para comprobar que efectivamente podía editarlo directamente en el repositorio de la nube. 
