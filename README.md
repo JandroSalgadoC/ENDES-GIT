@@ -16,3 +16,7 @@
 * JUnit de mi tarea propia del array de años bisiestos.
 * Se ha cometido un error en el mensaje de subida de la carpeta y NO se ha añadido la práctica del IDE aunque diga que sí.
 
+11/04/2021 20:18
+-> Se borran dos archivos de la práctica de caja negra para mejorar la estructura de archivos, se comenta su borrado y se ve el histórico de la carpeta.
+
+
