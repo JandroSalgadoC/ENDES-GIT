@@ -5,3 +5,6 @@
 
 11/04/2021 19:57
 -> He añadido la carpeta JAVADOC al repositorio, contiene todos los archivos de la práctica 4_3.
+
+11/04/2021 20:00
+-> He añadido la carpeta REFACTORIZACION al repositorio, contiene todos los archivos de la práctica 4_2.
