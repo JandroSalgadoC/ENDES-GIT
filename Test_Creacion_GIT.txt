@@ -1,2 +1,5 @@
 Este archivo ha sido creado sólo para testear funcionalidades para el trabajo de Git y Github. 
 Puede ser borrado sin problemas.
+
+**********************************
+Estas líneas han sido añadidas directamente en GitHub
